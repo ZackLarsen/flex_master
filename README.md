@@ -2,7 +2,7 @@
 Using Flex Dashboards to create presentations in R
 
 Interactive HTML page available at:
-https://ghe.fyiblue.com/pages/U383387/flex/Divvy_dashboard.html
+https://github.com/pages/ZackLarsen/flex_master/Divvy_dashboard.html
 
 ![Ward_density](Ward_density.png)
 
